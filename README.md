@@ -17,12 +17,25 @@
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,react,nodejs,express,mongodb,mysql,git,github,docker,vscode,linux,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" title="Express.js" alt="Express.js" />
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" alt="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=opencv" title="OpenCV" alt="OpenCV" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" />
 </p>
-
 ---
 
 ##  GitHub Stats
