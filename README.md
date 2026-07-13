@@ -9,11 +9,11 @@
 
 ##  About Me
 
-- 🎓 B.E. Computer Science Engineering (AI & ML)
-- 🌱 Currently learning **Java, DSA, MERN Stack**
-- 🤖 Interested in **Artificial Intelligence, Computer Vision & Full Stack Development**
-- 🚀 Working on **CivicEye** and other AI projects
-- 💬 Ask me about **Python, React, Node.js, Machine Learning**
+- B.E. Computer Science Engineering (AI & ML)
+- Currently learning **Java, DSA, MERN Stack**
+- Interested in **Artificial Intelligence, Computer Vision & Full Stack Development**
+- Working on **CivicEye** and other AI projects
+- Ask me about **Python, React, Node.js, Machine Learning**
 
 ---
 
